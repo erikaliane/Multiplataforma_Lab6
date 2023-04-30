@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="ListViewExample.MainPage">
+
+    <StackLayout>
+        <StackLayout Padding="30" >
+            <Button x:Name="Item14" Text="ListviewSource"  CornerRadius ="40" BackgroundColor   ="DodgerBlue" Margin="40" TextColor="White"/>
+
+            <Button x:Name="Item12" Text="ListViewDemo" CornerRadius ="40" BackgroundColor   ="DodgerBlue" Margin="40" TextColor="White" />
+            <Button x:Name="Item13" Text="ListViewCode" CornerRadius ="40" BackgroundColor   ="DodgerBlue" Margin="40" TextColor="White" />
+            <Button x:Name="Item15" Text="ListViewGroup"  CornerRadius ="40" BackgroundColor   ="DodgerBlue"  Margin="40" TextColor="White" />
+            </StackLayout>
+        
+    </StackLayout>
+
+</ContentPage>
